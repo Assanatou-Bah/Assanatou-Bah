@@ -1,13 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Assanatou Bah
 =====================================================================================================================================
 
-Data Analyst
+I am a student
 ------------
 
 I am currently enrolled in the Arewa Data Science Fellowship
 
 *   🌍  I'm based in The Gambia
-*   🖥️  See my portfolio at [Assanatou-Bah](http://assanatou-bah.github.io)
 *   ✉️  You can contact me at [bahassanatou19@gmail.com](mailto:bahassanatou19@gmail.com)
 *   🧠  I'm learning Python Programming
 *   🤝  I'm open to collaborating on Business Data Intelligence projects
