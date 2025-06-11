@@ -1,8 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Assanatou Bah
 =====================================================================================================================================
 
-I am a Data Analyst
--------------------
 I'm Assanatou Bah, an entry-level data analyst passionate about using data to drive business decisions. I have strong knowledge of Excel, SQL, Python, and Tableau, and I'm excited to apply my skills to help companies make data-driven decisions.
 
 With a keen eye for detail and a passion for problem-solving, I am committed to providing actionable insights that help businesses grow and succeed. As a lifelong learner, I am always looking for new challenges and opportunities to grow my skills and expertise.
