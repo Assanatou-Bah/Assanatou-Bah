@@ -1,12 +1,16 @@
-Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Assanatou Bah
-=====================================================================================================================================
+# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there! I'm Assanatou Bah
 
-I'm Assanatou Bah, an entry-level data analyst passionate about using data to drive business decisions. I have strong knowledge of Excel, SQL, Python, and Tableau, and I'm excited to apply my skills to help companies make data-driven decisions.
+I'm an entry-level **Data Analyst** with a passion for transforming data into meaningful insights that support informed decision-making. I bring strong skills in **Excel**, **SQL**, **Power BI**, and **Python**, and I’m eager to contribute to data-driven projects and real-world business solutions.
 
-With a keen eye for detail and a passion for problem-solving, I am dedicated to delivering actionable insights that enable businesses to grow and thrive. As a lifelong learner, I continually seek new challenges and opportunities to expand my skills and expertise.
+With a background in Core Networks and continuous upskilling in data analytics, I combine analytical thinking with practical experience. I'm always learning, building, and exploring ways to make data more accessible and impactful.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/assanatou-bah])
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://assanatou-bah.github.io/)
+
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/assanatou-bah]) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahassanatou19@gmail.com)
+
 
 
 ## 💻 Tech Stack
@@ -28,5 +32,5 @@ With a keen eye for detail and a passion for problem-solving, I am dedicated to 
 ![](https://github-readme-stats.vercel.app/api?username=assanatou-bah&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=assanatou-bah&theme=dark&hide_border=false)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=assanatou-bah&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
+💡 *Fun fact:* I love turning messy data into clear stories and dashboards—and I believe learning never stops.
