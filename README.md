@@ -30,14 +30,14 @@ I build end-to-end analytics solutions, from raw data modeling in SQL to interac
       <sub>SQL Server · DAX · Power BI</sub><br/><br/>
       RFM scoring, cohort retention heatmaps, and drill-through tooltips on the UCI Online Retail dataset. 3-page dashboard fully documented on Notion and GitHub.
       <br/><br/>
-      <a href="YOUR_REPO_LINK">View project →</a>
+      <a href="https://github.com/Assanatou-Bah/Customer-Segmentation-and-Retention-Analysis">View project →</a>
     </td>
     <td width="33%" valign="top" style="padding:12px">
       <b>🛒 Sales Funnel & E-Commerce Analysis</b><br/>
       <sub>BigQuery · Layered SQL · Power BI</sub><br/><br/>
       Layered SQL architecture (staging + 6 marts) rebuilding the full purchase funnel from a flat event dataset. Drop-off analysis across all funnel stages.
       <br/><br/>
-      <a href="YOUR_REPO_LINK">View project →</a>
+      <a href="https://github.com/Assanatou-Bah/Sales-Funnel-Analysis">View project →</a>
     </td>
     <td width="33%" valign="top" style="padding:12px">
       <b>📈 Crypto Price & Volatility Dashboard</b><br/>
